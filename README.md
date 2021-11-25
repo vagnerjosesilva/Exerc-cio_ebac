@@ -1,2 +1,2 @@
-# Exerc-cio_ebac
+# Exercicio_ebac
 Exercício qualidade de Sofware
